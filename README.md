@@ -4,6 +4,7 @@
 This repository contains my solution to the FreeCodeCamp "Build a Number Guessing Game" challenge as part of **Relational Database Course**. For this project, I have used Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information.
 
 ## 🏆FCC Challenge Link
+If you want to try this challenge, follow this link:   
 https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game
 
 ## 📜Instructions
